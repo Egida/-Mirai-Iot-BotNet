@@ -126,5 +126,3 @@ The [zip file](https://www.virustotal.com/en/file/f10667215040e87dae62dd48a5405b
 
 
 #### *Sincerely , Screamfox AB member
-
-
